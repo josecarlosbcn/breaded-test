@@ -1,0 +1,38 @@
+.blue-background{
+    background-color: #eef4f5;
+}
+
+.container-separator{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.message{
+    font-size: 16pt;
+    font-weight: normal;
+}
+
+.row{
+    margin: 0 auto;
+}
+
+.separator{
+    height: 50px;
+}
+
+.space{
+    margin-top: 50px !important;
+}
+
+.title{
+    font-size: 38pt;
+    font-weight: bold;
+}
+
+.white-button{
+    width: 150px;
+    height: 50px;
+    border: 2px solid #000000 !important;
+    background-color: #F8F8F8 !important;
+    color: black !important
+}
