@@ -2,7 +2,7 @@
 You can install this application in your pc or laptop. You only need to have installed before Node.js and Npm (https://nodejs.org/).
 Npm is installed with Node.js
 
-After the installation you only need to download the application from Github with git or zipped. To download the zipped file with the application you need to go to Github [https://github.com/josecarlosbcn/breaded-test](https://github.com/josecarlosbcn/breaded-test) and make click over the green button called *Code*. 
+After the installation you only need to download the application from Github with git or zipped. To download the zipped file with the application you need to make click over the green button called *Code*. This button is in this page. 
 
 If you have download the zipped file before to run the application we need to install all their libraries with the command *npm install*
 
