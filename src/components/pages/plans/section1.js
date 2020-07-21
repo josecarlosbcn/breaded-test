@@ -32,8 +32,9 @@ export const Section1 = () => {
                             </div>
                         </Col>
                         <Col md = {4}>
-                            <div className = "card">
-                                <div class="ribbon ribbon-top-right" style = {{fontSize: 10 + "pt"}}><span>Recommended</span></div>
+                            <div className = "top-border"></div>
+                            <div style = {{borderBottomLeftRadius: 0.5 + "em", borderBottomRightRadius: 0.5 + "em", backgroundColor: "#FFFFFF", padding: 50 + "px", textAlign: "left", width: 100 + "%", height: "auto"}}>
+                                <div className="ribbon ribbon-top-right" style = {{fontSize: 10 + "pt"}}><span>Recommended</span></div>
                                 <span style = {{fontSize: 10 + "pt"}}>BIWEEKLY</span>
                                 <div style = {{marginTop: 25 + "px", fontWeight: "bold"}}>
                                     <span style = {{fontSize: 24 + "pt"}}>&pound;</span><span style = {{fontSize: 36 + "pt"}}>61.99</span><span style = {{fontWeight: "normal", fontSize: 16 + "pt"}}>/Biweekly</span>

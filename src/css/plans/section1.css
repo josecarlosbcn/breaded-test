@@ -35,13 +35,13 @@
   .ribbon span {
     position: absolute;
     display: block;
-    width: 225px;
+    width: 240px;
     padding: 15px 0;
     background-color: #3498db;
     box-shadow: 0 5px 10px rgba(0,0,0,.1);
     color: #fff;
     /*font: 700 14px/1 'Lato', sans-serif;*/
-    font-size: 10pt;
+    font-size: 12pt;
     font-weight: bold;
     text-shadow: 0 1px 1px rgba(0,0,0,.2);
     /*text-transform: uppercase;*/
@@ -50,8 +50,8 @@
   
   /* top right*/
   .ribbon-top-right {
-    top: -10px;
-    right: -10px;
+    top: 0px;
+    right: 14px;
   }
   .ribbon-top-right::before,
   .ribbon-top-right::after {
@@ -71,3 +71,10 @@
     top: 30px;
     transform: rotate(45deg);
   }
+
+.top-border{
+    background-color: #3498DB;
+    border-top-left-radius: 0.5em; 
+    border-top-right-radius: 0.5em;
+    height: 7px
+}
