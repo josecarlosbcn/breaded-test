@@ -44,7 +44,7 @@ export const Section1 = () => {
                                     <p>delivered to you once per week</p>
                                     <p>cancel at any time</p>
                                 </div>
-                                <div className = "text-center" style = {{marginTop: 25 + "px", marginBottom: 50 + "px"}}>
+                                <div className = "text-center" style = {{marginTop: 50 + "px", marginBottom: 50 + "px"}}>
                                     <Button className = "btn-primary blue-button">
                                         Get Started
                                     </Button>
@@ -53,9 +53,9 @@ export const Section1 = () => {
                         </Col>
                         <Col md = {4}>
                             <div className = "card" style = {{marginTop: 25 + "px"}}>
-                                <span style = {{fontSize: 10 + "pt"}}>MONTHLY</span>
+                                <span style = {{fontSize: 10 + "pt"}}>MONTHLY</span><br />
                                 <div style = {{marginTop: 25 + "px", fontWeight: "bold"}}>
-                                    <span style = {{fontSize: 24 + "pt"}}>&pound;</span><span style = {{fontSize: 36 + "pt"}}>114.99</span><span style = {{fontWeight: "normal", fontSize: 16 + "pt"}}>/month</span>
+                                    <span style = {{fontSize: 24 + "pt"}}>&pound;</span><span style = {{fontSize: 36 + "pt"}}>114.99</span><span style = {{fontWeight: "normal", fontSize: 16 + "pt"}}>/Weekly</span>
                                 </div>
                                 <div style = {{marginTop: 25 + "px"}}>
                                     <p>10 different types of bread</p>
