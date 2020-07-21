@@ -8,6 +8,8 @@ If you have download the zipped file before to run the application we need to in
 
 After install all their libraries needed you can start the application with the command *npm start*
 
+If you want to check only the code you've got it in *src* folder.
+
 ## Available Scripts
 
 In the project directory, you can run:
